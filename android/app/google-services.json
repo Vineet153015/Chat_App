@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "230346814182",
+    "project_id": "uniblind-d4a8a",
+    "storage_bucket": "uniblind-d4a8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230346814182:android:bdd5536c694f2c43ba8127",
+        "android_client_info": {
+          "package_name": "com.example.chatpp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACp_5XQbtWLSJth7qSCOz01V_lE2FqnW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
